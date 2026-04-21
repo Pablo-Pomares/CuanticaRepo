@@ -1,7 +1,7 @@
 # Repostitorio para Cuántica-MFA Primavera 2026
 
 ## Instrucciones de instalado
-Antes de iniciar, deberán tener instalado git y Github CLI en sus computadoras. Si han usado github antes seguro lo tienen, si no les dejo un (link)[https://github.com/git-guides/install-git] para que lo chequen.
+Antes de iniciar, deberán tener instalado git y Github CLI en sus computadoras. Si han usado github antes seguro lo tienen, si no les dejo un [link](https://github.com/git-guides/install-git) para que lo chequen.
 
 Para instalar el repositorio solo tienen que hacer:
 ```bash
