@@ -5,7 +5,7 @@ Antes de iniciar, deberán tener instalado git y Github CLI en sus computadoras.
 
 Para instalar el repositorio solo tienen que hacer:
 ```bash
-git clone <repo>
+git clone https://github.com/Pablo-Pomares/CuanticaRepo.git # o git@github.com:Pablo-Pomares/CuanticaRepo.git
 ```
 (Recuerden pasarme sus usuarios para ponerlos como autores y pueda subir cosas sin dificultad).
 
